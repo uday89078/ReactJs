@@ -1,0 +1,26 @@
+body{
+  width: 0px;
+  height: 0px;
+  box-sizing: border-box;
+}
+.btn1{
+  background-color:yellow;
+}
+.btn2{
+background-color: red;
+}
+.btn3{
+background-color: green;
+}
+h1{
+text-align: center;
+}
+.boxes{
+/* border: 1px solid black; */
+display: flex ;
+justify-content: center ;
+align-items: center ;
+width: 1525px;
+margin: 0 auto ;
+box-sizing: border-box;
+}
