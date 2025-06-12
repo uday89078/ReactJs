@@ -1,0 +1,32 @@
+.user-card {
+    width: 280px;
+    padding: 25px;
+    background: linear-gradient(to bottom right, #ffffff, #f0f0f0);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 14px;
+    text-align: center;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .user-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .user-avatar {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #007bff;
+    margin-bottom: 15px;
+  }
+  
+  .user-description {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #555;
+    line-height: 1.4;
+  }
+  
