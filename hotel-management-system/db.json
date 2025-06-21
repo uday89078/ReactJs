@@ -1,0 +1,8 @@
+{
+  "rooms": [
+    { "id": 1, "name": "Deluxe Room", "type": "Deluxe", "available": true },
+    { "id": 2, "name": "Standard Room", "type": "Standard", "available": false },
+    { "id": 3, "name": "Suite Room", "type": "Suite", "available": true }
+  ],
+  "reservations": []
+}
